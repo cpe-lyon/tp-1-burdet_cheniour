@@ -84,3 +84,4 @@ Si je supprime titi, tutu est alors vide
 2. ```nano .bashrc``` ```ctrl + s```
 3. ```source .bashrc```
 4. ```nano .bashrc``` ```ctrl + w```
+5. ```PS1='\[\033[01;91m\]\t ${debian_chroot:+```
